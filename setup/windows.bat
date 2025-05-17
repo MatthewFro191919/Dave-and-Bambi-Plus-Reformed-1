@@ -19,6 +19,7 @@ haxelib install hxjsonast
 haxelib install hxCodec 2.5.1
 haxelib install linc_luajit
 haxelib install hscript
+haxelib install openfl-webm
 haxelib git hscript-ex https://github.com/ianharrigan/hscript-ex
 haxelib git hxvm-luajit https://github.com/nebulazorua/hxvm-luajit
 haxelib git faxe https://github.com/uhrobots/faxe
